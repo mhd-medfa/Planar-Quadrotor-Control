@@ -109,14 +109,14 @@ References:
 Bitcoin address: <a href="bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77">
   <img align="left" alt="Bitcoin" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/bitcoin.svg.png" />
 </a>
-<mark>bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77</mark>
+<mark>`bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77`</mark>
 
 Litecoin address: <a href="ltc1q9l4dr8jdtcakhe8qekep9lfwpgscpllxv5zy27">
   <img align="left" alt="Litecoin" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/litecoin.svg.png" />
 </a>
-<mark>ltc1q9l4dr8jdtcakhe8qekep9lfwpgscpllxv5zy27</mark>
+<mark>`ltc1q9l4dr8jdtcakhe8qekep9lfwpgscpllxv5zy27`</mark>
 
 Tether address: <a href="0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9"> 
   <img align="left" alt="TetherUSD" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/tether.svg" />
 </a>
-<mark>0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9</mark>
+<mark>`0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9`</mark>
