@@ -26,6 +26,7 @@
     <img alt="LICENSE" src="https://img.shields.io/github/license/mhd-medfa/Planar-Quadrotor-Control?style=flat-square&color=yellow">
   <a/>
 </p>
+<hr>
 
 ![](./documentation/2.svg)
 
@@ -150,4 +151,4 @@ Tether address: <a href="0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9">
 <mark>`0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9`</mark>
 
 
-Licensed under [GNU GPLv3 License](LICENSE)
+Licensed under [GNU GPLv3 License](LICENSE).
