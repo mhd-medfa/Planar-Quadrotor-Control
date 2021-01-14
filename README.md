@@ -1,4 +1,32 @@
 # Planar-Quadrotor-Control
+<p align="center">
+  <a href="https://github.com/mhd-medfa/Planar-Quadrotor-Control/releases/" target="_blank">
+    <img alt="GitHub release" src="https://img.shields.io/github/v/release/mhd-medfa/Planar-Quadrotor-Control?include_prereleases&style=flat-square">
+  </a>
+
+  <a href="https://github.com/mhd-medfa/Planar-Quadrotor-Control/commits/master" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/mhd-medfa/Planar-Quadrotor-Control?style=flat-square" alt="GitHub last commit">
+  </a>
+
+  <a href="https://github.com/mhd-medfa/Planar-Quadrotor-Control/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/mhd-medfa/Planar-Quadrotor-Control?style=flat-square&color=red" alt="GitHub issues">
+  </a>
+
+  <a href="https://github.com/mhd-medfa/Planar-Quadrotor-Control/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/mhd-medfa/Planar-Quadrotor-Control?style=flat-square&color=blue" alt="GitHub pull requests">
+  </a>
+
+  </br>
+
+  <a href="https://github.com/mhd-medfa/Planar-Quadrotor-Control#contribute" target="_blank">
+    <img alt="Contributors" src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square">
+  </a>
+
+  <a href="https://github.com/mhd-medfa/Planar-Quadrotor-Control/blob/master/LICENSE" target="_blank">
+    <img alt="LICENSE" src="https://img.shields.io/github/license/mhd-medfa/Planar-Quadrotor-Control?style=flat-square&color=yellow">
+  <a/>
+</p>
+
 ![](./documentation/2.svg)
 
 ![](./documentation/3.svg)
@@ -120,3 +148,6 @@ Tether address: <a href="0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9">
   <img align="left" alt="TetherUSD" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/tether.svg" />
 </a>
 <mark>`0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9`</mark>
+
+
+Licensed under [GNU GPLv3 License](LICENSE)
