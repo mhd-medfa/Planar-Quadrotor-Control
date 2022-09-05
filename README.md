@@ -133,7 +133,7 @@ References:
 \(iv\)  B. Erginer · E. Altuğ: Modeling and PD Control of a Quadrotor VTOL Vehicle  
 
 
-### If you like what I do, or you want to support me:
+### If you find this project useful, support me:
 
 Bitcoin address: <a href="bc1q5cjffml32qrvks3xd0hyau8jx3gf5cd04hrn77">
   <img align="left" alt="Bitcoin" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/bitcoin.svg.png" />
